@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Montes"
+  name             : "Andre R. Montes"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Mechanical Engineering"
   location         : "UC Berkeley"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andremontes/"
+  linkedin         : "andremontes/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
