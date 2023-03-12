@@ -83,8 +83,8 @@ author:
   name             : "Andre Montes"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Mechanical Engineering"
-  location         : "Berkeley"
-  employer         : "UC Berkeley"
+  location         : "UC Berkeley"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "amontes@berkeley.edu"
