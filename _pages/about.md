@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A mild-mannered mechanobiologist from Peru"
+title: "A mild-mannered computational mechanobiologist from Peru"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
