@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "A computational mechanobiologist from Peru"
-excerpt: "About me"
+excerpt: "About me<br/><img src='/images/int_fn_fda.gif'>"
 author_profile: true
 redirect_from: 
   - /about/
