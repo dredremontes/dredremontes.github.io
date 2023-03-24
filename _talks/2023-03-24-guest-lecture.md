@@ -9,6 +9,6 @@ date: 2023-03-24
 location: "Berkeley, CA"
 ---
 
-<p><a href="{{ dredremontes.github.io }}/files/cell_adhesion_integrin_mechanosensing.pdf">Download slides</a></p>
+<p><a href="{{ dredremontes.github.io }}/files/integrin_mechanosensing_lecture.pdf">Download slides</a></p>
 
-<embed src="{{ dredremontes.github.io }}/files/cell_adhesion_integrin_mechanosensing.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ dredremontes.github.io }}/files/integrin_mechanosensing_lecture.pdf" width="600" height="700" type='application/pdf'>
