@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Mechanobiologist from Peru" &#x1F1F5;
+title: "Computational Mechanobiologist from Peru 🇵🇪"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
