@@ -12,4 +12,4 @@ I study the interplay between mechanics and the body across spatiotemporal scale
 
 <video src = "{{ dredremontes.github.io }}/images/mim_summary.mp4" controls="controls" width = "100%" style="max-width: 360 px;"></video>
 
-When I'm not wondering why my code is not working, you can find me venturing outside, lifting weights, or engaging in advocacy on campus as a [Diversity and Community Fellow](https://grad.berkeley.edu/graduate-diversity/contact-ogd/diversity-and-community-fellows/). Feel free to [book a time with me](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVMdFFqWTlZNmx0fGRlZmF1bHR8M2JmZDhjNTdmNjI4MTg4ZjU4N2UxNjQ2YzY4YjU1ZTU)! Ask me about grad school, skydiving, sleeping on the floor, or the difference between biomechanics and mechanobiology. 
+When I'm not wondering why my code is not working, you can find me venturing outside, lifting weights, or sleeping on the floor. Feel free to reach out! Ask me about grad school, skydiving, or the difference between biomechanics and mechanobiology.
