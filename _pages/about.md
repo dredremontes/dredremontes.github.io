@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Mechanobiologist from Peru"
+title: "Computational Biophysics and Cell Mechanbiology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
