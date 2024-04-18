@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src = "{{ dredremontes.github.io }}/images/mechbio.png"></img>
+
+<p align="center">
+  <img src = "{{ dredremontes.github.io }}/images/mechbio.png" width="25%"/>
+</p>
+
 
 I am a computational biophysicist, mechanobiologist, and engineer interested in the interface between the cell and the extracellular matrix to improve health. Understanding the mechanics of the cell-matrix interface across nano and micro scales is instrumental for inspiring new therapeutics and biomaterials. During my PhD, I conceptualized and developed a multiscale computational model to propose a novel molecular mechanism in cell-matrix adhesion. Specifically, I used the finite element method and molecular dynamics simulations to represent how the bonding dynamics between integrin and fibronectin progress under applied force. 
 
