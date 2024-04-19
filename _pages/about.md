@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Biophysics and Cell Mechanbiology"
+title: "Computational Biophysics and Cell Mechanobiology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
