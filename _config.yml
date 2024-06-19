@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre R. Montes"
+  name             : "Andre R. Montes, Ph.D."
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Mechanical Engineering"
-  location         : "UC Berkeley"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "National Institutes of Health"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "amontes@berkeley.edu"
+  email            : "andre.montes@nih.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dredremontes"
+  twitter          : # "dredremontes"
   vine             :
   weibo            :
   xing             :
